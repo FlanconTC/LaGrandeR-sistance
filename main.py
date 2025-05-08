@@ -1,7 +1,7 @@
 import discord
 import os
 
-TOKEN = os.getenv("1369985700715302972")
+TOKEN = os.getenv("DISCORD_TOKEN")
 TARGET_ROLE_NAME = "Red"  # Le nom du rôle à vérifier
 TRIGGER_WORD = "ping"       # Le mot déclencheur
 
